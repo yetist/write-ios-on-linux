@@ -23,8 +23,6 @@ Here, we just use archlinux.
 
     $ ios-createProject 
     iPhone Project Createor
-    ---------------------------
-
     [0.] Application
     [1.] Command line utility
     [2.] Dynamic Framework
@@ -36,8 +34,6 @@ Here, we just use archlinux.
     [8.] Example UICatalog
     Choose a Template:8
     Project Name:Controls
-    ---------------------------
-
     Project Controls generated in ./Controls folder.
 
 6. build the example project.
